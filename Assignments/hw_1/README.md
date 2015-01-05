@@ -1,5 +1,8 @@
 #Homework 1
 
+##Data Strucure Used
+* Stack
+
 ##Description
 
 In this assignment, I implemented a reverse polish notation calculator.
